@@ -1,4 +1,4 @@
-# student-Data
+# Calculator project
 This is my first git repository
 priyanka sarkale
 <!DOCTYPE html>
