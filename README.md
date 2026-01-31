@@ -1,6 +1,7 @@
 # Calculator project
-This is my first git repository
-priyanka sarkale
+This is my first git repository.
+<br>
+Author - Priyanka Sarkale
 <!DOCTYPE html>
 <html lang="en">
 <head>
